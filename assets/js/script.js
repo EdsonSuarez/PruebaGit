@@ -1,1 +1,4 @@
-alert("Hola mundo!!!");
+
+const prueba = () =>{
+    alert("Hola mundo!!!");
+};
